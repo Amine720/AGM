@@ -1,0 +1,6 @@
+cli;Service client
+com;Service commerce
+cpt;Service comptabilite
+dir;Service direction
+grh;Service GRH
+mtc;Service maintenance

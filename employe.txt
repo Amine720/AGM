@@ -1,0 +1,11 @@
+1;Takha;Amine;1997-11-29;Manager;amine@gmail.com
+2;Ben Youssef;Ahmed;1995-06-21;Commerce;ahmed@gmail.com
+3;Ben Ahmed;Ayman;1990-06-02;Commerce;ayman@gmail.com
+4;Madani;Lehcen;1992-12-23;Comptabilite;lehcen@gmail.com
+5;Bendriss;Mohammed;1989-04-17;Comptabilite;mohammed@gmail.com
+6;Benbrahim;Sara;1985-12-01;Ressource humaine;sara@gmail.com
+7;Bendriss;Fatiha;1995-06-20;Ressource humaine;fatiha@gmail.com
+8;Hamza;Hamza;1995-06-15;Maintenence;hamza@gmail.com
+9;Mourad;Mourad;1996-06-14;Maintenence;mourad@gmail.com
+10;Ayoub;Ayoub;1997-01-03;Client;ayoub@gmail.com
+11;Azziz;Azziz;1986-03-20;Client;azziz@gmail.com

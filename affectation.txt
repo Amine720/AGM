@@ -1,0 +1,10 @@
+1;Ayoub Ayoub;Service client;2019-06-11;2020-04-14;fonction client
+2;Azziz Azziz;Service client;2018-03-06;2020-06-18;fonction client
+3;Ben Youssef Ahmed;Service commerce;2016-06-15;2020-05-12;fonction commercial
+4;Ben Ahmed Ayman;Service commerce;2020-01-02;2020-06-10;fonction commercial
+5;Ben Ahmed Ayman;Service comptabilite;2018-07-11;2020-02-25;fonction comptable
+6;Madani Lehcen;Service comptabilite;2019-07-11;2020-04-02;fonction comptable
+7;Benbrahim Sara;Service GRH;2018-07-12;2019-07-11;fonction grh
+8;Bendriss Fatiha;Service GRH;2016-04-11;2020-02-01;fonction grh
+9;Hamza Hamza;Service maintenance;2018-07-11;2018-07-11;fonction maintenence
+12;Mourad Mourad;Service maintenance;2014-05-24;2020-06-21;fonction maintenence
